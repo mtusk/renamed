@@ -2,7 +2,7 @@
 
 A little Node utility to rename files in batch using your preferred text editor.
 
-![demo](docs/demo.gif)
+![demo](https://raw.githubusercontent.com/mtusk/renamed/master/docs/demo.gif)
 
 ## Installation
 
