@@ -1,6 +1,6 @@
 # renamed
 
-A little Node utility to rename files in batch using your preferred text editor.
+A little Node CLI utility to rename files in batch using your preferred text editor.
 
 ![demo](https://raw.githubusercontent.com/mtusk/renamed/master/docs/demo.gif)
 
